@@ -8,4 +8,8 @@ Each file has the following features:
 4. Space Complexity
 5. Solution (Complete or just the main logic)
 
-Caution: Solution might or might not be independently executable on its own.
+Caution: 
+1. Solution might or might not be independently executable on its own.
+2. Check the file name and the main class name in the file. They may be different.
+   File name is to give idea of the problem without opening the file. 
+   Class name is according to semantics. 
