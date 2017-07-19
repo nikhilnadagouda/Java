@@ -17,7 +17,7 @@ public class RainWaterTrapped {
         int leftMax = towers[low];
         int rightMax = towers[high];
 
-        while(low<high){
+        while(low<=high){
             if(towers[low]<towers[high]){
                 if(leftMax<towers[low]){
                     leftMax = towers[low];
